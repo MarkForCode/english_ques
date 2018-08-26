@@ -1,5 +1,5 @@
 
-$ meteor add-platform ios
+$ meteor add-platform ios <br>
 $ meteor add-platform android
 $ rm -rf server client
 $ meteor remove blaze-html-templates
